@@ -36011,7 +36011,7 @@ const oM = [
       id: 3,
       name: "Crypto Mining Website",
       description:
-        "Smart app interface design using Wix",
+        "Crypto Mining Website using Next/PostgreSQL",
       image: "images/projects/App.jpg",
       tags: ["Next", "typescript", "Node", "PostgreSQL"],
       alt: "Crypto Mining Website using Next/PostgreSQL",
@@ -36020,10 +36020,10 @@ const oM = [
       id: 4,
       name: "Fantasy Games Website",
       description:
-        "Advertisement of 3D Fantisy Game.",
+        "3D fantasy game advertising website using WebGL/Next/MongoDB.",
       image: "images/projects/Game.jpg",
-      tags: ["webgl", "typescript", "Next", "PostgreSQL"],
-      alt: "Fantasy Games Website using .",
+      tags: ["webgl", "typescript", "Next", "MongoDB"],
+      alt: "Fantasy Games Website using WebGL/Next/MongoDB.",
     },
   ],
   aM = {
